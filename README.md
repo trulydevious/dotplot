@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is for a visual comparison of pairs of DNA sequences.  
+This program is for the quantitative comparison of pairs of protein sequences using the Needleman-Wunsch global alignment algorithm.
 	
 ## Technologies
 Project is created with:
